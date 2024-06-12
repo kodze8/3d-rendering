@@ -1,6 +1,6 @@
 import pygame
 from cor_generator import *
-from object import *
+from geometric_objects import *
 
 WIDTH, HEIGHT = axis.SCREEN_WIDTH, axis.SCREEN_HEIGHT
 BEIGE = (245, 245, 220)

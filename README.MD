@@ -8,6 +8,9 @@ coordinates for various geometric figures, which are
 then transformed through matrices to enable rotations 
 and projections.
 
+### Example Render
+![Example Render](assets/render_gif.gif)
+
 
 ### Features
 
